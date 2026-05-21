@@ -190,7 +190,30 @@ No encontrada
 ```
 [COPIE AQUÍ LA SALIDA COMPLETA DE LA CONSOLA]
 ```
+PS C:\Users\User\Downloads\jaava\estructuraDatos\icc-estp67-metodosOrdenamiento-exa-NicolasAguilar>  & 'C:\Program Files\Java\jdk-24\bin\java.exe' '@C:\temp\cp_4k9jt3vxtoic2rk4konvh1le0.argfile' 'App' 
+Original:
+Honda - Años válidos: 6
+Toyota - Años válidos: 10
+Ford - Años válidos: 5
+Chevrolet - Años válidos: 8
+Nissan - Años válidos: 7
+Mazda - Años válidos: 12
+Hyundai - Años válidos: 8
 
+Ordenado por Bubble Sort descendente:
+Mazda - Años válidos: 12
+Toyota - Años válidos: 10
+Chevrolet - Años válidos: 8
+Hyundai - Años válidos: 8
+Nissan - Años válidos: 7
+Honda - Años válidos: 6
+Ford - Años válidos: 5
+
+Buscar marca con 7 años válidos:
+Encontrada: Nissan
+
+Buscar marca con 4 años válidos:
+No encontrada
 ---
 
 
